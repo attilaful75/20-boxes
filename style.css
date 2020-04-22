@@ -1,0 +1,34 @@
+.blueitem{
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    margin: auto;
+}
+.purpleitem{
+    width: 40px;
+    height: 40px;
+    background-color: blueviolet;
+    margin: auto;
+}
+.boxblue{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 610px;
+    height: 70px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+.boxpurple{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 610px;
+    height: 70px;
+    border: 1px solid blue;
+    margin-top: 10px;
+    background-color: coral;
+}
+.container{
+    display: block;
+}
